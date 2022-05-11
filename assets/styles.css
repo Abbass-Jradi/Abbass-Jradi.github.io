@@ -1,0 +1,46 @@
+body{
+    background-image:url("Background.jpg");
+    text-shadow: 2px 2px 5px grey;
+    
+
+}   
+
+
+.image{
+    float: left;
+    border: 5px solid rgb(59, 59, 59);
+}
+
+.name{
+    margin-left:200px;
+    color:grey;
+    text-shadow: 2px 2px 5px grey;
+
+
+}
+
+.profession{
+    margin-left:200px;
+    color:grey;
+    text-shadow: 2px 2px 5px grey;
+
+}
+
+tr:nth-child(even) {
+    background-color: #b2c4be;
+}
+
+ul li {
+    background: #b2c4be;
+    color: rgb(4, 4, 5);
+    margin: 5px;
+  }
+
+  hr.new3 {
+    border-top: 5px dotted rgb(14, 172, 93);
+  }
+  
+
+
+  
+
