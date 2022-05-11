@@ -1,10 +1,7 @@
 body{
     background-image:url("Background.jpg");
     text-shadow: 2px 2px 5px grey;
-    
-
 }   
-
 
 .image{
     float: left;
@@ -15,8 +12,6 @@ body{
     margin-left:200px;
     color:grey;
     text-shadow: 2px 2px 5px grey;
-
-
 }
 
 .profession{
@@ -26,19 +21,18 @@ body{
 
 }
 
+/* Every even child gets colored. */
 tr:nth-child(even) {
     background-color: #b2c4be;
 }
 
+/* Every child of this list is attributed. */
 ul li {
     background: #b2c4be;
     color: rgb(4, 4, 5);
     margin: 5px;
   }
 
-  hr.new3 {
-    border-top: 5px dotted rgb(14, 172, 93);
-  }
   
 
 
